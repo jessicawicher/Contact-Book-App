@@ -11,7 +11,12 @@ App functions:
 - Delete contact
 - List all contacts
 
-It is executed in a Python 3 environment. Either copy the code to one online or execute in your terminal, if you have Pyhton installed.
+It is executed in a Python 3 environment. For example, you can try it on Google Collab.
 
-You can download this file and execute with bash
-python contactapp.py
+Either copy the code to the online environment or execute it in your terminal, if you have Python installed.
+
+You can download the file and execute it with bash
+python contactsapp.py
+
+After that, follow the instructions shown on the terminal.
+
