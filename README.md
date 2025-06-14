@@ -20,3 +20,12 @@ python contactsapp.py
 
 After that, follow the instructions shown on the terminal.
 
+Programming concepts I applied in this project:
+- Functions
+- Dictionaries
+- Lists
+- Loops
+- Input/Output
+- Basic error handling
+
+
